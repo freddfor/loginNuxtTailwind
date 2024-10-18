@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/stores/auth.ts","./src/App.vue","./src/components/ForgotPassword.vue","./src/components/HelloWorld.vue","./src/components/Home.vue","./src/components/Login.vue","./src/components/Register.vue","./src/components/UserList.vue"],"errors":true,"version":"5.6.3"}
